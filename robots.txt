@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://misyakuji.github.io/blog/sitemap.xml
